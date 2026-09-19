@@ -27,4 +27,5 @@ int main(){
     cout<<"write the string\n";
     cin >>s;
     cout<<binarystringoperation(s);
+    return 0;
 }

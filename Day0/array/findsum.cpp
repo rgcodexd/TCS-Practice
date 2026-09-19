@@ -16,4 +16,6 @@ int main(){
     cin>>a;
     solution s;
     cout<<s.findsum(a)<<'\n';
+
+    return 0;
 }

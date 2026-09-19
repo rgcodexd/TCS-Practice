@@ -30,5 +30,7 @@ int main(){
 
     solution s;
     cout << s.findunion(arr1, arr2) << '\n';
+
+    return 0;
 }
 

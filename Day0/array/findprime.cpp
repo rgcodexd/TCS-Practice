@@ -21,4 +21,6 @@ int main(){
         cout<<"number is pure\n";
     }
     else cout<< "not pure\n";
+
+    return 0;
 }
